@@ -9,6 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifsweelam&show_icons=true&theme=transparent)
 
+![](https://raw.githubusercontent.com/saifsweelam/cf-stats/main/output/light_card.svg)
 
 ## Objective
 I’m a passionate learner with a great aim to make use of science that I enjoy in real time projects. I always write clean code. I’m good troubleshooting and finding unique solutions to obstacles. Just give me an IDE and wait for magic.
