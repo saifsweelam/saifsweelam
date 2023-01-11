@@ -7,10 +7,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ](https://www.facebook.com/seif.eldinwael.330)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifsweelam&show_icons=true&theme=transparent)
-
-![](https://raw.githubusercontent.com/saifsweelam/cf-stats/main/output/light_card.svg)
-
 ## Objective
 I’m a passionate learner with a great aim to make use of science that I enjoy in real time projects. I always write clean code. I’m good troubleshooting and finding unique solutions to obstacles. Just give me an IDE and wait for magic.
 
@@ -58,8 +54,7 @@ I’m a passionate learner with a great aim to make use of science that I enjoy 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifsweelam&show_icons=true&theme=transparent)
-
+  ![Top Langs](https://api.githubtrends.io/user/svg/saifsweelam/langs?theme=dark)
 
   ### Tools and Framework
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -77,8 +72,13 @@ I’m a passionate learner with a great aim to make use of science that I enjoy 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
+## Competitive Programming
+![Codeforces Stats](https://raw.githubusercontent.com/saifsweelam/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
 ## Highlighted Repositories
 * [Shohra - Angular Brand Identity Website](https://github.com/saifsweelam/shohra)
 * [Kalematy - Word guessing game](https://github.com/saifsweelam/kalematy)
 * [Fashionee - E-Commerce Android Application](https://github.com/saifsweelam/fashionee)
 * [FSND | Project : Linux Server Configuration](https://github.com/saifsweelam/linux-server-configuration)
+
+  ![Most Contributed Repositories](https://api.githubtrends.io/user/svg/saifsweelam/repos?time_range=one_year&theme=dark)
